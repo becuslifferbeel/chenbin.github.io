@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "姓名"
+collection:
+type: "身份"
+permalink: 
+venue: "研究方向"
+date: 202X-09-01
+location: "办公室/实验室位置"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+XX于202X年加入本团队，主要负责...
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+**联系方式：
