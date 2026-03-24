@@ -1,6 +1,6 @@
 ---
 title: "姓名"
-collection:
+collection:teaching
 type: "身份"
 permalink: 
 venue: "研究方向"
