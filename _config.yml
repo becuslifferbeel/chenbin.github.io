@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "陈斌课题组"
+title                    : "个人简介"
 title_separator          : "-"
 name                     : &name "陈斌"
 description              : &description "课题组"   # Update this with a general description of your site, this is the default if not overridden by a page
