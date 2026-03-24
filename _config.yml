@@ -13,7 +13,7 @@ title                    : "个人简介"
 title_separator          : "-"
 name                     : &name "陈斌"
 description              : &description "课题组"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://chenbin-hhu.github.io" 
+url                      : "https://chenbin-hhu.github.io" 
 baseurl                  : ""
 repository               : "chenbin-hhu/chenbin-hhu.github.io"
 
